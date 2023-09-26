@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T12:59:45.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="FFUYQ-0bgEnPQ2-mBtGi" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T13:03:45.076Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="fgZyvRsooQyLeSypRYih" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3364" dy="2120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -91,7 +91,7 @@
           <mxGeometry x="770" y="290" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GbgRb__HCXadz126l9WK-19" value="不规范行为训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="900" y="585" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GbgRb__HCXadz126l9WK-20" value="&lt;b&gt;大模型训练&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="60" width="450" height="30" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry x="480" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GbgRb__HCXadz126l9WK-46" value="隐患训练" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GbgRb__HCXadz126l9WK-49" value="安全风险事件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1090" y="120" width="120" height="20" as="geometry" />
@@ -354,6 +354,33 @@
         </mxCell>
         <mxCell id="GbgRb__HCXadz126l9WK-177" value="&lt;b&gt;数字调度员&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-370" y="765" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.642;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="GbgRb__HCXadz126l9WK-188" target="GbgRb__HCXadz126l9WK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-188" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="575" width="326" height="225" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-189" value="人员安全监测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="625" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-190" value="人员监测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="464" y="625" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-191" value="工作面监测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="324" y="685" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-192" value="&lt;b&gt;反三违系统&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="314" y="585" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-194" value="设备检测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="464" y="685" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-195" value="运输监测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbgRb__HCXadz126l9WK-196" value="水仓监测" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="464" y="740" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
